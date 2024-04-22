@@ -10980,6 +10980,20 @@ p.lead {
   margin-right: 0;
 }
 
+@media (max-width: 992px) {
+  .language-select{
+    margin-top: 20px;
+    margin-left: 75%;
+  }
+}
+
+@media (max-width: 600px) {
+  .language-select{
+    margin-top: 20px;
+    margin-left: 50%;
+  }
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
