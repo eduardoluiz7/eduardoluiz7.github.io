@@ -11006,3 +11006,11 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.badge-primary {
+  background-color: #232675;
+}
+
+.badge-primary:hover{
+  opacity: 70%;
+}
