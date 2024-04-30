@@ -11028,3 +11028,16 @@ section.resume-section .resume-section-content {
 .badge-primary:hover{
   opacity: 70%;
 }
+
+.cv-button{
+  margin-top: 5px;
+  border-radius: 8px;
+  border-width: 1px;
+  border-color: #232675;
+  color: #fff;
+  background-color: #232675;
+}
+
+.cv-button:hover {
+  opacity: 70%;
+}
